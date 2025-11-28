@@ -3,12 +3,11 @@
 This project is a simple, beginner-friendly SQL practice repo built to simulate a tiny CRM used by SaaS companies.  
 It contains a database with **customers**, **subscriptions**, and **support tickets**, plus a few analytical queries.
 
-The goal is to practice:
+The goal here is to practice:
 - basic SQL syntax  
 - JOINs  
 - filtering  
-- understanding CRM/SaaS data models  
-- thinking like Tech Support / Implementation roles  
+- understanding CRM/SaaS data models
 
 ---
 
@@ -76,10 +75,4 @@ WHERE subscriptions.status = 'active';
 
 ## 💡 Purpose of This Project
 
-This repo gives recruiters a concrete example that you:
-- know SQL  
-- understand basic SaaS data structures  
-- can think like someone in Tech Support / RevOps / Implementation  
-- can organize a repo in a professional way  
-
-It’s intentionally simple — this is your **first technical step** toward an employable portfolio.
+Just for practice, creating and extracting data dinamically using SQL 
